@@ -1,0 +1,27 @@
+body{
+    background-color: darkgray;
+}
+.Da-Big-One{
+    text-align: center;
+    display: block;
+    text-transform: uppercase;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+}
+.Reference-Stuff{
+    color: rgb(138, 64, 42);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.da-footer{
+    text-align: Center;
+}
+h2{
+    font-weight: 500;
+}
+.Tableau-Stuff{
+    max-width: 50%;
+}
+ul{
+    list-style: none;
+}
